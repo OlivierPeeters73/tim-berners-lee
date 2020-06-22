@@ -1,0 +1,134 @@
+body {
+    background-color: rgb(200, 200, 200);
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+section {
+    background-color: white;
+    color: rgb(166, 166, 166);
+    width: 44%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 25px;
+    color: rgb(220, 85, 85);
+    font-weight: 900;
+    margin-top: 10px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: justify;
+    line-height: 27px;
+}
+
+b {
+    font-weight: 800;
+}
+
+.wiki {
+    display: inline-block;
+    background-color: rgb(220, 85, 85);
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.bio {
+    padding-top: 25px;
+ 
+}
+
+.picture {
+    border-radius: 50%;
+    width: 115px;
+    height: 115px;
+    border: rgb(200, 200, 200) solid 3px;
+}
+
+.links {
+    height: 175px;
+    width: 44%;
+    margin-top: 24px;
+       
+}
+
+.links ul {
+    list-style:none;
+    font-size: 27px;
+    float: left;
+    width: 100%;
+    margin-left: 65px;
+    margin-top: 55px;
+      
+}
+
+.links ul li{
+    display: inline;
+    
+    
+}
+
+.links ul li a {
+    text-decoration:none;
+    color:rgb(200, 200, 200);
+    width: 20%;
+    float:left;
+}
+
+
+span {
+    font-size: 16px;
+}
+
+mark {
+    background-color: rgb(200, 200, 200);
+    color: rgb(166, 166, 166);
+}
+
+.movies {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    margin-top: 24px;
+}
+
+.movies h2 {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+table {
+    margin-left: 25px;
+    margin-right: 25px;
+    border-collapse: separate;
+    border-spacing: 10px 50px;
+}
+
+.movies table tr td {
+    text-align: justify;
+    word-spacing: 2px;
+}
+
+.movies h3 {
+    text-align: center;
+    margin-top: 0px;
+
+}
+.movies img {
+    width: 90px;
+}
